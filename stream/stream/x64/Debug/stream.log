@@ -1,0 +1,4 @@
+﻿  stream.cpp
+C:\Users\mArto\source\repos\stream\stream\stream.cpp(116,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mArto\source\repos\stream\stream\stream.cpp(128,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  stream.vcxproj -> C:\Users\mArto\source\repos\stream\x64\Debug\stream.exe
