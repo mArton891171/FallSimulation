@@ -1,9 +1,6 @@
 # FallSimulation
-# FallSimulation
 
 A realistic freefall and parachute simulation in C++ with air resistance, atmospheric modeling, and Reynolds number-adjusted drag.
-
-![Simulation Preview](docs/fall_simulation.gif)  <!-- Ha van GIF, ide linkeld -->
 
 ---
 
