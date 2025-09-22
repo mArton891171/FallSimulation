@@ -21,12 +21,3 @@ A realistic freefall and parachute simulation in C++ with air resistance, atmosp
 - CMake >= 3.10
 - Optional: Python/Excel for analyzing CSV results
 
-### Build Instructions
-```bash
-git clone https://github.com/YourUsername/FallSimulation.git
-cd FallSimulation
-mkdir build
-cd build
-cmake ..
-make
-
